@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩故
-#+DATE: 2015-09-23 09:36:53
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:05:48.208482
+#+PROPERTY: ID KR1c0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0038_WYG_002-1a>¶
 欽定四庫全書¶
 　詩故卷二　　　　　　　明　朱謀㙔　撰¶
@@ -254,4 +256,3 @@
 　矣報以瓊琚瓊瑶瓊玖而猶若有歉焉又為遜順之¶
 　詞以導之政以賄成有如此¶
 　詩故卷二¶
-

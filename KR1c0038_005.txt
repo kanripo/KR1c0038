@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩故
-#+DATE: 2015-09-23 09:36:53
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:05:48.251323
+#+PROPERTY: ID KR1c0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1c0038_WYG_005-1a>¶
 欽定四庫全書¶
 　詩故卷五　　　　　　明　朱謀㙔　撰¶
@@ -218,4 +220,3 @@
 　¶
 　¶
 　詩故卷五¶
-
